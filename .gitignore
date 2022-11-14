@@ -1,6 +1,12 @@
-.idea/
+# Jekyll
 _site
-.sass-cache
-.jekyll-cache
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+Gemfile.lock
+**/Gemfile.lock
+
+# Temporary files
+tmp
+.DS_Store
