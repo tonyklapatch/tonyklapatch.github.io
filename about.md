@@ -18,10 +18,10 @@ Designed and developed a new public website SEO first using PHP with MODX on the
 ## Volunteering
 
 *2023 - Present*\
-**Forks Township Planning Commission : Forks Township, PA**\
+**Forks Township Planning Commission : Forks Township, PA**
 
 *2022 - Present*\
-**Gracedale Nursing Home : Nazareth, PA**\
+**Gracedale Nursing Home : Nazareth, PA**
 
 *2022 - Present*\
 **City of Easton Environmental Advisory Council : Easton, PA**\
