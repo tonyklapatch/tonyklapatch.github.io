@@ -17,6 +17,12 @@ Designed and developed a new public website SEO first using PHP with MODX on the
 
 ## Volunteering
 
+*2023 - Present*\
+**Forks Township Planning Commission : Forks Township, PA**\
+
+*2022 - Present*\
+**Gracedale Nursing Home : Nazareth, PA**\
+
 *2022 - Present*\
 **City of Easton Environmental Advisory Council : Easton, PA**\
 Helped with coordinating community volunteer and sustainability projects within the city. Reviewed local municipal planning and ordinances to assist in achieving the City's Climate Action Plan.
