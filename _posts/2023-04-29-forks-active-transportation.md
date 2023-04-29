@@ -2,6 +2,8 @@
 layout: post
 title: Forks Township Active Transportation Improvement Map
 last_modified_at: 2023-04-29 19:22:00 +0000
+categories: [forks township]
+tags: [forks-township]
 ---
 
 <div class="embed-container">
