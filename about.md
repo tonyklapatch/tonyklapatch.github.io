@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 Web developer utilizing Magento, PHP, and Javascript based in Easton, PA with a passion for local municipal planning and volunteering. 
@@ -19,9 +19,6 @@ Designed and developed a new public website SEO first using PHP with MODX on the
 
 *2023 - Present*\
 **Forks Township Planning Commission : Forks Township, PA**
-
-*2022 - Present*\
-**Gracedale Nursing Home : Nazareth, PA**
 
 *2022 - Present*\
 **City of Easton Environmental Advisory Council : Easton, PA**\

@@ -114,7 +114,7 @@ pre code {
 
 blockquote {
     color: $gray-darkest;
-    font-size: 1.88889rem;
+    font-size: 1.38889rem;
     line-height: 1.25;
     margin: 0 0 0.88235em;
     position: relative;
@@ -819,4 +819,20 @@ pre[class*="language-"] {
     box-sizing: border-box;
     margin-bottom: 3.33333em;
     padding: 35px 30px 45px;
+}
+
+.clear {
+    clear: both;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
 }
