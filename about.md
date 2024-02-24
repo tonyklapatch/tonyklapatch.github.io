@@ -18,17 +18,21 @@ Designed and developed a new public website SEO first using PHP with MODX on the
 ## Volunteering
 
 *2023 - Present*\
-**Forks Township Planning Commission : Forks Township, PA**
+**Forks Township Planning Commissioner : Forks Township, PA**
 
 *2022 - Present*\
-**City of Easton Environmental Advisory Council : Easton, PA**\
-Helped with coordinating community volunteer and sustainability projects within the city. Reviewed local municipal planning and ordinances to assist in achieving the City's Climate Action Plan.
+**City of Easton Environmental Advisory Council Advisory Member : Easton, PA**\
+Helped with coordinating community volunteer and sustainability projects within the city. Reviewed local municipal planning and ordinances to assist in achieving the City's Climate Action Plan. Recorded meeting minutes and published to the City website.
 
 *2020 - Present*\
 **Greater Easton Development Partnership : Easton, PA**\
 Assisted with setup and teardown at the Easton Farmers Market, West Ward Market, and PA Bacon Fest. Helped with organizing and planning at the Easton Garden Works community gardens.
 
-## Awards
+## Awards & Certifications
+
+*2023*\
+**Certified Citizen Planner : Lehigh Valley Planning Commission**\
+Awarded for completing the Community Planning, Sub-Division and Land Development, and Zoning courses from the Pennsylvania Municipal Planning Education Institute.
 
 *2022*\
 **Northampton County Outstanding Volunteer**\
