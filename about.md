@@ -3,15 +3,15 @@ layout: page
 title: About Me
 ---
 
-Web developer utilizing Magento, PHP, and Javascript based in Easton, PA with a passion for local municipal planning and volunteering. 
+Full stack web developer utilizing Magento, PHP, and Javascript based in Easton, PA with a passion for urban planning and volunteering. 
 
 ## Experience
 
 *2018 - Present*\
 **Web Developer - Famous Smoke Shop : Easton, PA**\
-Worked on developing an all-new multi-store Magento 2 platform with extensive custom modules to adapt to the business requirements of a restricted industry. Implemented a retail point of sale system integrating with NetSuite ERP.
+Developed an all-new multi-store Magento 2 platform with extensive custom modules to adapt to the business requirements of a restricted industry. Implemented a retail point of sale system integrating with NetSuite ERP.
 
-*2015 - Present (Part Time)*\
+*2015 - 2025*\
 **Web Developer - Pocono Sew & Vac : Stroudsburg, PA**\
 Designed and developed a new SEO first website using PHP with MODX on the backend as well as DigitalOcean and AWS for hosting, leading to better engagement and sales. Designed a new internal database program using Electron and Vue.js to track parts and customers. Released and maintained publicly available eCommerce extensions on the MODX platform.
 
@@ -21,7 +21,7 @@ Designed and developed a new SEO first website using PHP with MODX on the backen
 **Easton Main Street Initiative - Chair of the Easton Design Committee : Easton, PA**
 
 *2023 - Present*\
-**Forks Township Planning Commissioner : Forks Township, PA**
+**Forks Township Planning Commission - Chair : Forks Township, PA**
 
 *2022 - 2025*\
 **City of Easton Environmental Advisory Council Advisory Member : Easton, PA**\
@@ -29,7 +29,7 @@ Helped with coordinating community volunteer and sustainability projects within 
 
 *2020 - Present*\
 **Greater Easton Development Partnership : Easton, PA**\
-Assisted with setup and teardown at the Easton Farmers Market, West Ward Market, and PA Bacon Fest. Helped with organizing and planning at the Easton Garden Works community gardens.
+Assisted with setup and teardown at the Easton Farmers Market, West Ward Market, PA Bacon Fest, and numerous other Downtown festivals. Helped with organizing and planning at the Easton Garden Works community gardens.
 
 ## Awards & Certifications
 
