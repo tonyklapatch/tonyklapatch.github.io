@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Downtown Easton, Pennsylvania Parking
-last_modified_at: 2026-02-22 19:20:00 +0000
+last_modified_at: 2026-03-22 19:20:00 +0000
 categories: [Easton]
 tags: [Easton, parking]
 ---
