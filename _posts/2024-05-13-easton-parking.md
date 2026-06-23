@@ -12,7 +12,7 @@ tags: [Easton, parking]
 
 Parking map created in QGIS for the Easton Business Association for Downtown Easton, Pennsylvania to make it easier for downtown visitors to find the best place to park.
 
-Created with data from the [city's website](https://www.easton-pa.com/236/Parking-Department) and the [latest ordinance](https://ecode360.com/EA2741/laws/LF1946516.pdf) affecting parking rates in downtown as of March 2026.
+Created with data from the [city's website](https://www.easton-pa.com/236/Parking-Department) and the [latest ordinance](https://ecode360.com/EA2741/laws/LF1946516.pdf) affecting parking rates in downtown as of June 2026.
 
 ## Parking Garages
 
