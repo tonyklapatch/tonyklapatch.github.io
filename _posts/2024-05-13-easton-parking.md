@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Downtown Easton, Pennsylvania Parking
-last_modified_at: 2026-03-22 19:20:00 +0000
+last_modified_at: 2026-06-22 20:05:00 +0000
 categories: [Easton]
 tags: [Easton, parking]
 ---
@@ -23,7 +23,6 @@ Created with data from the [city's website](https://www.easton-pa.com/236/Parkin
 
 - 3rd St Surface Lot, $3/hr, 3hr limit (ParkSmarter only)
 - Northampton St. Surface Lot, $3/hr, 10 hour limit
-- St John's Church Lot, $2/hr, 5pm-8am only (ParkSmarter only)
 - Social Security lot, $2/hr, 5pm-7am weekdays, 24/hrs on weekends (ParkSmarter only)
 - Washington St. Lot, FREE. Weeknights after 5pm, 24/hrs on weekends
 
