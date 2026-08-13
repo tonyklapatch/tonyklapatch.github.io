@@ -20,8 +20,9 @@ Designed and developed a new SEO first website using PHP with MODX on the backen
 *2025 - Present*\
 **Easton Main Street Initiative - Chair of the Easton Design Committee : Easton, PA**
 
-*2023 - Present*\
-**Forks Township Planning Commission - Chair : Forks Township, PA**
+*2023 - Sept. 2026*\
+**Forks Township Planning Commission : Forks Township, PA**
+Chaired between Jan - Sept. 2026.
 
 *2022 - 2025*\
 **City of Easton Environmental Advisory Council Advisory Member : Easton, PA**\
